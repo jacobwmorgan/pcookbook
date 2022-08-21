@@ -1,7 +1,13 @@
 body {
 	font-family: sans-serif ;
-	background: #c5baae ;
-	color: #54523a ;
+	background: #28190E;
+	max-width: 850px;
+	padding: 0 16px;
+	margin: auto;
+	margin-bottom: 500px;
+	scrollbar-color: gray;
+	color: #DBB3B1;
+	font-family: 'Sawarabi Mincho', serif;
 }
 
 
@@ -9,6 +15,25 @@ body {
 /*
 Tea = lighter colour #c5baae
 Hemlock = Darker colour #54523a
+
+background:  #424855;
+	color: #a7a884 ;
+
+brandy rose rgb(182,135,113)
+green rgb(165,181,72)
+swhite rgb(218,220,210)
+yelloythng rgb(226,204,131)
+wakakkakakakgrey rgb(222,211,216)
+dusty gyal rgb(195,168,151) FAV RN
+pale oyster rgb(157,143,123)
+santafayyyyyyyyyyy rgb(183,121,99)
+stonyk rgb(201,176,170)
+antiwu brass rgb(197,128,96)
+
+background: rgb(66,72,85)
+color: rgb(167,168,132)
+
+
 
 
 */
@@ -21,8 +46,15 @@ img {
 	max-width: 100% ;
 }
 
-header h1 {
+h1 {
+	color:#C89FA3;
+	border-style: solid;
+	border-width: 3px 3px 3px 3px;
 	text-align: center ;
+}
+h2 {
+	color: #A67F8E;
+	text-align: center;
 }
 
 footer {

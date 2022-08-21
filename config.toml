@@ -1,7 +1,9 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-uk'
-title = 'PCookBook'
+title = 'P-Cook Book'
 theme = 'lugo'
+googlefonts = "https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap"
+
 
 
 [params]
