@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-uk'
+title = 'PCookBook'
+theme = 'lugo'
+
+
+[params]
+  favicon = "/favicon.svg"
+  stylesheet = "/style.css"
