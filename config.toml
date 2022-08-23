@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://adorable-stardust-da9495.netlify.app/'
 languageCode = 'en-uk'
 title = 'P-Cook Book'
 theme = 'jlugo'
