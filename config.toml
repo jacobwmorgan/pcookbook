@@ -9,3 +9,9 @@ googlefonts = "https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=
 [params]
   favicon = "/favicon.svg"
   stylesheet = "/style.css"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
