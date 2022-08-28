@@ -67,6 +67,15 @@ footer {
 	clear: both ;
 }
 
+img {
+	max-width: 90% ;
+	max-height: 400px ;
+	margin: auto ;
+	display: block ;
+}
+
+
+
 /* For TAGLIST.HTML */
 .taglist {
 	text-align: center ;
@@ -112,3 +121,4 @@ footer {
 #tag_chinese:before {content: " 🇨🇳 ";}
 #tag_italian:before {content: " 🇮🇹 ";}
 #tag_fakeaway:before {content: " 🥡 ";}
+#tag_general:before {content: "💤";}

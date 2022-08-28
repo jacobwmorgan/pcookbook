@@ -5,20 +5,22 @@ tags: ["chinese","fakeaway"]
 ---
 
 Chinese takeaway type chips. A very simple and yummy meal.
-Can be served with [Salt and Pepper Chicken]()
+Can be served with [Salt and Pepper Chicken](/saltandpepperchicken)
 
 - ⏳ Prep : 5 mins
 - 🍳 Cook time : 25 mins
 - 🍲 Serving : 2 People
+  
+
 
 ## Ingredients
 - 225g Oven Chips
-- 1 tbsp vegetable oil
+- 1 tsp vegetable oil
 - 1 red chilli
 - 1 green chilli 
 - 1 small onion 
-- 2 tbsp chinese 5 spice
-- 1 tbsp salt
+- 2 tsp chinese 5 spice
+- 1 tsp salt
 - 1 spring onion
   
 ## Method
@@ -33,4 +35,4 @@ Can be served with [Salt and Pepper Chicken]()
 
 <h3> Enjoy ヾ(＠⌒ー⌒＠)ノ</h3>
 
-<i> image incoming </i>
+![saltnpepperchips](/images/saltnpepperchips.webp)
