@@ -88,3 +88,27 @@ footer {
 #nextart,#prevart {
 	max-width: 33% ;
 }
+
+#recentList{
+	font-size: large;
+}
+
+#recentList li{
+	padding: .25em ;
+}
+
+#tagcloud {
+	list-style : none;
+	text-align: center;
+	padding : 0;
+}
+#tagcloud li{
+	display: inline-block;
+}
+#tagcloud a {
+	margin: .1em .25em ;
+}
+
+#tag_chinese:before {content: " 🇨🇳 ";}
+#tag_italian:before {content: " 🇮🇹 ";}
+#tag_fakeaway:before {content: " 🥡 ";}
