@@ -2,18 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2022-08-21T16:05:48+01:00</lastmod>
+    <loc>https://adorable-stardust-da9495.netlify.app/</loc>
   </url><url>
-    <loc>http://example.org/about/</loc>
-    <lastmod>2022-08-21T16:05:48+01:00</lastmod>
+    <loc>https://adorable-stardust-da9495.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/info/</loc>
-    <lastmod>2022-08-21T16:05:48+01:00</lastmod>
+    <loc>https://adorable-stardust-da9495.netlify.app/tags/chinese/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2022-08-21T16:05:48+01:00</lastmod>
+    <loc>https://adorable-stardust-da9495.netlify.app/tags/fakeaway/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://adorable-stardust-da9495.netlify.app/tags/general/</loc>
+  </url><url>
+    <loc>https://adorable-stardust-da9495.netlify.app/tags/italian/</loc>
+  </url><url>
+    <loc>https://adorable-stardust-da9495.netlify.app/pasta/</loc>
+  </url><url>
+    <loc>https://adorable-stardust-da9495.netlify.app/saltandpepperchicken/</loc>
+  </url><url>
+    <loc>https://adorable-stardust-da9495.netlify.app/saltandpepperchips/</loc>
+  </url><url>
+    <loc>https://adorable-stardust-da9495.netlify.app/tags/</loc>
   </url>
 </urlset>

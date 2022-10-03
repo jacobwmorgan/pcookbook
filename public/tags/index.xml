@@ -1,20 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on P-Cook Book</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on P-Cook Book</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    <lastBuildDate>Sun, 21 Aug 2022 16:05:48 +0100</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>info</title>
-      <link>http://example.org/tags/info/</link>
-      <pubDate>Sun, 21 Aug 2022 16:05:48 +0100</pubDate>
-      
-      <guid>http://example.org/tags/info/</guid>
-      <description></description>
-    </item>
+	<title>P-Cook Book</title>
+	<link>https://adorable-stardust-da9495.netlify.app/tags/</link>
+	<description>Recent content in Tags on P-Cook Book</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-uk</language>
     
-  </channel>
+        <atom:link href="https://adorable-stardust-da9495.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>chinese</title>
+		<link>https://adorable-stardust-da9495.netlify.app/tags/chinese/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://adorable-stardust-da9495.netlify.app/tags/chinese/</guid>
+		<description></description>
+	</item>
+	
+	<item>
+		<title>fakeaway</title>
+		<link>https://adorable-stardust-da9495.netlify.app/tags/fakeaway/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://adorable-stardust-da9495.netlify.app/tags/fakeaway/</guid>
+		<description></description>
+	</item>
+	
+	<item>
+		<title>general</title>
+		<link>https://adorable-stardust-da9495.netlify.app/tags/general/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://adorable-stardust-da9495.netlify.app/tags/general/</guid>
+		<description></description>
+	</item>
+	
+	<item>
+		<title>italian</title>
+		<link>https://adorable-stardust-da9495.netlify.app/tags/italian/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://adorable-stardust-da9495.netlify.app/tags/italian/</guid>
+		<description></description>
+	</item>
+	
+	</channel>
 </rss>

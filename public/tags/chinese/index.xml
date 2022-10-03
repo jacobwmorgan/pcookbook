@@ -1,23 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>P-Cook Book</title>
-	<link>https://adorable-stardust-da9495.netlify.app/</link>
-	<description>Recent content in 🍜 P-COOK BOOK 🍜  on P-Cook Book</description>
+	<link>https://adorable-stardust-da9495.netlify.app/tags/chinese/</link>
+	<description>Recent content in chinese on P-Cook Book</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-uk</language>
     
-        <atom:link href="https://adorable-stardust-da9495.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://adorable-stardust-da9495.netlify.app/tags/chinese/index.xml" rel="self" type="application/rss+xml" />
 	
-	
-	<item>
-		<title>Pasta</title>
-		<link>https://adorable-stardust-da9495.netlify.app/pasta/</link>
-		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-		
-		<guid>https://adorable-stardust-da9495.netlify.app/pasta/</guid>
-		<description>&lt;p&gt;temporary , ignore this one for now :))&lt;/p&gt;
-</description>
-	</item>
 	
 	<item>
 		<title>Salt and Pepper Chicken</title>

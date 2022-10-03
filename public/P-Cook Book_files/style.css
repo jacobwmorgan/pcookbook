@@ -54,7 +54,7 @@ h2 {
 	color: #A67F8E;
 	text-align: center;
 }
-h3{
+em {
 	text-align: center;
 }
 
@@ -66,15 +66,6 @@ footer {
 	text-align: center ;
 	clear: both ;
 }
-
-img {
-	max-width: 90% ;
-	max-height: 400px ;
-	margin: auto ;
-	display: block ;
-}
-
-
 
 /* For TAGLIST.HTML */
 .taglist {
@@ -97,28 +88,3 @@ img {
 #nextart,#prevart {
 	max-width: 33% ;
 }
-
-#recentList{
-	font-size: large;
-}
-
-#recentList li{
-	padding: .25em ;
-}
-
-#tagcloud {
-	list-style : none;
-	text-align: center;
-	padding : 0;
-}
-#tagcloud li{
-	display: inline-block;
-}
-#tagcloud a {
-	margin: .1em .25em ;
-}
-
-#tag_chinese:before {content: " 🇨🇳 ";}
-#tag_italian:before {content: " 🇮🇹 ";}
-#tag_fakeaway:before {content: " 🥡 ";}
-#tag_general:before {content: "💤";}

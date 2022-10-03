@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on P-Cook Book</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on P-Cook Book</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+	<title>P-Cook Book</title>
+	<link>https://adorable-stardust-da9495.netlify.app/categories/</link>
+	<description>Recent content in Categories on P-Cook Book</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-uk</language>
+    
+        <atom:link href="https://adorable-stardust-da9495.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	</channel>
 </rss>
