@@ -58,6 +58,7 @@ h3{
 	text-align: center;
 }
 
+
 a {
 	color: rgb(222,211,216);
 }
@@ -122,3 +123,4 @@ img {
 #tag_italian:before {content: " 🇮🇹 ";}
 #tag_fakeaway:before {content: " 🥡 ";}
 #tag_general:before {content: "💤";}
+#tag_korean:before {content: " 🇰🇷 ";}
