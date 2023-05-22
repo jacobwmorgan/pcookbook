@@ -16,7 +16,7 @@ If you wanna impress someone, make this.
 - Loads of butter, but like 4 tablespoons of butter should do
 - 5 cloves of garlic, minced
 - 1 1/2 cup of rice (any rice will do, basmati ftw) Use the 1:2 ratio for rice to liquid, if you want to add more rice, add more liquid.
-- 2 1/2 cups of chicken broth 
+- 2 1/2 cups of chicken broth (for joe fried rice use veg broth)
 - 1 teaspoon of dried parsley
 - 1 teaspoon of salt
 - Bit of pepper
