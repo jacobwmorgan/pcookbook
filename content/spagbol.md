@@ -55,7 +55,7 @@ My mum does this dish the best. For the best results leave it for fucking AGES, 
     - 1 Tbsp of Dried Oregano
     - 1 Tbsp of Dried Basil
     - Fresh Basil
-    - Liquid
+    - Liquid 1/2 cup of wine or water
     - Four dashes of wouster sauce
     - 2 Bay leaves
 
